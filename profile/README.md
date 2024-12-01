@@ -1,12 +1,17 @@
-## Hi there 👋
+# Hong-Wei-Hao-Ltd
 
-<!--
+## 團隊成員
+- **CEO**: MartisHung [(@JustANormalGuy)](https://github.com/MartisHung)
+- **coder**: 柚子Youzi [(@Youzi9601)](https://github.com/Youzi9601)
+- **support**: Xiao-Jason-123 [(@Xiao-Jason-123)](https://github.com/Xiao-Jason-123)
+- **Employee**: bondchen1115427 [(@bondchen1115427)](https://github.com/bondchen1115427)
 
-**Here are some ideas to get you started:**
+## 團隊目的
+- 專題製作
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 目標
+利用影像處理與辨識製作出能拍照並辨識出電阻數值的工具。
+
+## 相關網站
+- [電阻識別器](https://hong-wei-hao-ltd.github.io/detectWebsite/)
+- [模型製作存放庫](https://universe.roboflow.com/resistance/resistance-eg6us)
